@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DashboardWithCRUD</string>
+    <string name="add_a_new_person">Add a new person</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_bio">Enter Bio</string>
+    <string name="cancel">Cancel</string>
+    <string name="paste_image_url">Paste image url</string>
+    <string name="person_list">Person List</string>
+</resources>
